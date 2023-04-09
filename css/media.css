@@ -1,0 +1,36 @@
+
+@media screen and (min-width:992px) and (max-width:1200px){
+
+   
+    .weather-content .degree{
+        display: block !important;
+        
+    }
+    .weather-content .degree-icon{
+
+        margin-bottom: 35px !important;
+    }
+    
+}
+
+
+@media screen and (min-width:769px) and (max-width:991px){
+
+    #case2{
+        height: auto !important;
+    }
+    
+}
+
+@media screen and (min-width:601px) and (max-width:768px){
+    #case2{
+        height: auto !important;
+    }
+
+}
+
+@media screen and (max-width:600px){
+    #case2{
+        height: auto !important;
+    }
+}
